@@ -22,7 +22,7 @@
 
 ##### 课件在线预览:
 
-课件在线预览功能是用这个开源项目`https://gitee.com/kekingcn/file-online-preview.git`
+课件在线预览功能是用这个开源项目`https://gitee.com/kekingcn/file--preview.git`
 
 如何运行,里面有教程(基本上就是下载完就能马上运行了)。
 
@@ -65,9 +65,3 @@
 2. 后台管理员 用户名admin,密码12345678
 3. 不配置小程序的密钥和`appid`无法微信登录
 
-#### 联系
-
-1.  QQ: 1507906763
-2.  WX:  ljc666max
-4.  代做各种小程序,网站,app(h5)
-4.  我写的一个代取快递，帮忙的app。F12手机端打开 https://www.jarcheng.top/flash_help 
